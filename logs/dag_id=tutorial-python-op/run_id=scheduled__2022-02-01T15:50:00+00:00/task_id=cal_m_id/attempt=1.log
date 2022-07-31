@@ -1,0 +1,25 @@
+[2022-07-27 23:23:31,774] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: tutorial-python-op.cal_m_id scheduled__2022-02-01T15:50:00+00:00 [queued]>
+[2022-07-27 23:23:31,782] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: tutorial-python-op.cal_m_id scheduled__2022-02-01T15:50:00+00:00 [queued]>
+[2022-07-27 23:23:31,782] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-27 23:23:31,782] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-07-27 23:23:31,782] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-27 23:23:31,790] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): cal_m_id> on 2022-02-01 15:50:00+00:00
+[2022-07-27 23:23:31,796] {standard_task_runner.py:52} INFO - Started process 52335 to run task
+[2022-07-27 23:23:31,800] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial-python-op', 'cal_m_id', 'scheduled__2022-02-01T15:50:00+00:00', '--job-id', '133', '--raw', '--subdir', 'DAGS_FOLDER/test5.py', '--cfg-path', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmpf6agf_xr', '--error-file', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmp6tk7i6gh']
+[2022-07-27 23:23:31,801] {standard_task_runner.py:80} INFO - Job 133: Subtask cal_m_id
+[2022-07-27 23:23:31,854] {task_command.py:369} INFO - Running <TaskInstance: tutorial-python-op.cal_m_id scheduled__2022-02-01T15:50:00+00:00 [running]> on host janghuisuui-MacBookAir.local
+[2022-07-27 23:23:31,920] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=your-email@g.com
+AIRFLOW_CTX_DAG_OWNER=owner-name
+AIRFLOW_CTX_DAG_ID=tutorial-python-op
+AIRFLOW_CTX_TASK_ID=cal_m_id
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-01T15:50:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-02-01T15:50:00+00:00
+[2022-07-27 23:23:31,921] {logging_mixin.py:115} INFO - x * y :  40
+[2022-07-27 23:23:31,935] {python.py:173} INFO - Done. Returned value was: calc mul123
+[2022-07-27 23:23:31,961] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=tutorial-python-op, task_id=cal_m_id, execution_date=20220201T155000, start_date=20220727T142331, end_date=20220727T142331
+[2022-07-27 23:23:31,977] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-07-27 23:23:32,019] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

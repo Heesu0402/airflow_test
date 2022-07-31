@@ -1,0 +1,605 @@
+[2022-05-23 11:10:00,584] {scheduler_job.py:182} INFO - Started process (PID=423) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:10:00,596] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:10:00,625] {logging_mixin.py:104} INFO - [2022-05-23 11:10:00,619] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:10:00,874] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:10:01,061] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.556 seconds
+[2022-05-23 11:13:40,283] {scheduler_job.py:182} INFO - Started process (PID=713) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:13:40,329] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:13:40,368] {logging_mixin.py:104} INFO - [2022-05-23 11:13:40,366] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:13:40,758] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:13:40,964] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.776 seconds
+[2022-05-23 11:15:59,779] {scheduler_job.py:182} INFO - Started process (PID=916) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:15:59,821] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:15:59,852] {logging_mixin.py:104} INFO - [2022-05-23 11:15:59,852] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:16:00,311] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:16:00,646] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 1.012 seconds
+[2022-05-23 11:17:04,148] {scheduler_job.py:182} INFO - Started process (PID=1033) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:17:04,255] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:17:04,287] {logging_mixin.py:104} INFO - [2022-05-23 11:17:04,286] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:17:04,743] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:17:05,023] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.957 seconds
+[2022-05-23 11:18:14,169] {scheduler_job.py:182} INFO - Started process (PID=1150) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:18:14,239] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:18:14,272] {logging_mixin.py:104} INFO - [2022-05-23 11:18:14,271] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:18:14,694] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:18:15,016] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 1.056 seconds
+[2022-05-23 11:19:43,372] {scheduler_job.py:182} INFO - Started process (PID=1304) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:19:43,428] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:19:43,443] {logging_mixin.py:104} INFO - [2022-05-23 11:19:43,443] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:19:43,958] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:19:44,272] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 1.000 seconds
+[2022-05-23 11:21:36,830] {scheduler_job.py:182} INFO - Started process (PID=1456) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:21:36,984] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:21:36,993] {logging_mixin.py:104} INFO - [2022-05-23 11:21:36,992] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:21:37,612] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:21:37,891] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 1.241 seconds
+[2022-05-23 11:22:41,324] {scheduler_job.py:182} INFO - Started process (PID=1601) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:22:41,355] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:22:41,401] {logging_mixin.py:104} INFO - [2022-05-23 11:22:41,394] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:22:41,653] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:22:41,872] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.623 seconds
+[2022-05-23 11:23:57,397] {scheduler_job.py:182} INFO - Started process (PID=1722) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:23:57,450] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:23:57,481] {logging_mixin.py:104} INFO - [2022-05-23 11:23:57,481] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:23:57,725] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:23:57,958] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.659 seconds
+[2022-05-23 11:24:47,413] {scheduler_job.py:182} INFO - Started process (PID=1840) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:24:47,467] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:24:47,476] {logging_mixin.py:104} INFO - [2022-05-23 11:24:47,475] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:24:47,830] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:24:47,971] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.652 seconds
+[2022-05-23 11:25:58,457] {scheduler_job.py:182} INFO - Started process (PID=1936) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:25:58,518] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:25:58,570] {logging_mixin.py:104} INFO - [2022-05-23 11:25:58,559] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:25:58,939] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:25:59,442] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 1.158 seconds
+[2022-05-23 11:27:12,741] {scheduler_job.py:182} INFO - Started process (PID=2074) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:27:12,765] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:27:12,806] {logging_mixin.py:104} INFO - [2022-05-23 11:27:12,806] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:27:13,081] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:27:13,267] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.629 seconds
+[2022-05-23 11:29:02,042] {scheduler_job.py:182} INFO - Started process (PID=2241) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:29:02,114] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:29:02,217] {logging_mixin.py:104} INFO - [2022-05-23 11:29:02,216] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:29:03,186] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:30:04,712] {scheduler_job.py:182} INFO - Started process (PID=2325) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:30:04,764] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:30:04,815] {logging_mixin.py:104} INFO - [2022-05-23 11:30:04,803] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:30:05,729] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:31:05,009] {scheduler_job.py:182} INFO - Started process (PID=2404) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:31:05,227] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:31:05,295] {logging_mixin.py:104} INFO - [2022-05-23 11:31:05,261] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:31:06,832] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:32:06,909] {scheduler_job.py:182} INFO - Started process (PID=2484) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:32:06,994] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:32:07,088] {logging_mixin.py:104} INFO - [2022-05-23 11:32:07,087] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:32:08,117] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:33:22,214] {scheduler_job.py:182} INFO - Started process (PID=2568) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:33:22,305] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:33:22,407] {logging_mixin.py:104} INFO - [2022-05-23 11:33:22,363] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:33:24,454] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:34:34,138] {scheduler_job.py:182} INFO - Started process (PID=2640) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:34:34,236] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:34:34,327] {logging_mixin.py:104} INFO - [2022-05-23 11:34:34,275] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:34:35,662] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:34:35,740] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:34:35.618787 입니다.
+[2022-05-23 11:34:35,761] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:34:36,145] {logging_mixin.py:104} INFO - [2022-05-23 11:34:35,861] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:34:36,196] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:34:36,971] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 3.164 seconds
+[2022-05-23 11:35:35,827] {scheduler_job.py:182} INFO - Started process (PID=2710) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:35:35,889] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:35:35,983] {logging_mixin.py:104} INFO - [2022-05-23 11:35:35,970] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:35:36,880] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:35:36,975] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:35:36.879842 입니다.
+[2022-05-23 11:35:36,981] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:35:37,560] {logging_mixin.py:104} INFO - [2022-05-23 11:35:37,106] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:35:37,641] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:35:38,450] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 2.889 seconds
+[2022-05-23 11:38:43,374] {scheduler_job.py:182} INFO - Started process (PID=2979) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:38:43,454] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:38:43,519] {logging_mixin.py:104} INFO - [2022-05-23 11:38:43,518] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:38:44,412] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:38:44,458] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:38:44.362218 입니다.
+[2022-05-23 11:38:44,540] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:38:44,922] {logging_mixin.py:104} INFO - [2022-05-23 11:38:44,640] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:38:45,033] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:38:46,013] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 2.987 seconds
+[2022-05-23 11:39:55,630] {scheduler_job.py:182} INFO - Started process (PID=3063) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:39:55,719] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:39:55,759] {logging_mixin.py:104} INFO - [2022-05-23 11:39:55,758] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:39:56,397] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:39:56,439] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:39:56.397366 입니다.
+[2022-05-23 11:39:56,478] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:39:56,783] {logging_mixin.py:104} INFO - [2022-05-23 11:39:56,592] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:39:56,869] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:39:57,666] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 2.241 seconds
+[2022-05-23 11:42:54,649] {scheduler_job.py:182} INFO - Started process (PID=3326) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:42:54,721] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:42:54,866] {logging_mixin.py:104} INFO - [2022-05-23 11:42:54,865] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:42:55,892] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:42:55,932] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:42:55.854118 입니다.
+[2022-05-23 11:42:55,999] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:42:56,474] {logging_mixin.py:104} INFO - [2022-05-23 11:42:56,157] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:42:56,579] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:42:57,154] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 2.834 seconds
+[2022-05-23 11:43:59,371] {scheduler_job.py:182} INFO - Started process (PID=3407) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:43:59,473] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:43:59,594] {logging_mixin.py:104} INFO - [2022-05-23 11:43:59,528] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:44:00,626] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:44:00,654] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:44:00.626095 입니다.
+[2022-05-23 11:44:00,710] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:44:01,125] {logging_mixin.py:104} INFO - [2022-05-23 11:44:00,855] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:44:01,193] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:44:02,210] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 3.158 seconds
+[2022-05-23 11:45:10,867] {scheduler_job.py:182} INFO - Started process (PID=3499) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:45:11,107] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:45:11,271] {logging_mixin.py:104} INFO - [2022-05-23 11:45:11,146] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:45:11,922] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:45:12,012] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:45:11.921735 입니다.
+[2022-05-23 11:45:12,017] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:45:12,327] {logging_mixin.py:104} INFO - [2022-05-23 11:45:12,098] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:45:12,420] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:45:13,485] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 3.077 seconds
+[2022-05-23 11:46:39,249] {scheduler_job.py:182} INFO - Started process (PID=3604) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:46:39,749] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:46:40,106] {logging_mixin.py:104} INFO - [2022-05-23 11:46:40,026] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:46:41,564] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:46:41,701] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:46:41.563950 입니다.
+[2022-05-23 11:46:41,726] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:46:42,365] {logging_mixin.py:104} INFO - [2022-05-23 11:46:41,924] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:46:42,474] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:46:44,016] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 9.299 seconds
+[2022-05-23 11:47:38,533] {scheduler_job.py:182} INFO - Started process (PID=3683) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:47:38,601] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:47:38,673] {logging_mixin.py:104} INFO - [2022-05-23 11:47:38,672] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:47:39,423] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:47:39,483] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:47:39.422706 입니다.
+[2022-05-23 11:47:39,493] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:47:39,933] {logging_mixin.py:104} INFO - [2022-05-23 11:47:39,661] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:47:40,009] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:47:41,054] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 2.770 seconds
+[2022-05-23 11:50:53,960] {scheduler_job.py:182} INFO - Started process (PID=3965) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:50:54,157] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:50:54,230] {logging_mixin.py:104} INFO - [2022-05-23 11:50:54,229] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:50:54,998] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:50:55,024] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:50:54.998211 입니다.
+[2022-05-23 11:50:55,035] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:50:55,544] {logging_mixin.py:104} INFO - [2022-05-23 11:50:55,132] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:50:55,661] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:50:56,936] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 3.279 seconds
+[2022-05-23 11:52:06,789] {scheduler_job.py:182} INFO - Started process (PID=4064) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:52:06,906] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:52:07,064] {logging_mixin.py:104} INFO - [2022-05-23 11:52:07,063] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:52:08,220] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:52:08,267] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:52:08.220201 입니다.
+[2022-05-23 11:52:08,326] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:52:08,923] {logging_mixin.py:104} INFO - [2022-05-23 11:52:08,470] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:52:09,015] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:52:10,448] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 3.890 seconds
+[2022-05-23 11:53:53,023] {scheduler_job.py:182} INFO - Started process (PID=4179) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:53:53,044] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:53:53,065] {logging_mixin.py:104} INFO - [2022-05-23 11:53:53,061] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:53:55,485] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:53:55,606] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:53:55.485304 입니다.
+[2022-05-23 11:53:55,666] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:53:56,787] {logging_mixin.py:104} INFO - [2022-05-23 11:53:56,102] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:53:56,945] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:53:58,054] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 5.094 seconds
+[2022-05-23 11:55:02,761] {scheduler_job.py:182} INFO - Started process (PID=4268) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:55:02,978] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:55:03,095] {logging_mixin.py:104} INFO - [2022-05-23 11:55:03,027] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:55:04,108] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:55:04,177] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:55:04.107778 입니다.
+[2022-05-23 11:55:04,219] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:55:04,923] {logging_mixin.py:104} INFO - [2022-05-23 11:55:04,375] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:55:04,991] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:55:06,051] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 3.717 seconds
+[2022-05-23 11:56:56,090] {scheduler_job.py:182} INFO - Started process (PID=4379) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:56:56,275] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:56:56,537] {logging_mixin.py:104} INFO - [2022-05-23 11:56:56,536] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:56:59,377] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:56:59,479] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:56:59.227645 입니다.
+[2022-05-23 11:56:59,488] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:57:00,077] {logging_mixin.py:104} INFO - [2022-05-23 11:56:59,679] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:57:00,186] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:57:02,863] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 7.409 seconds
+[2022-05-23 11:58:23,711] {scheduler_job.py:182} INFO - Started process (PID=4483) to work on /opt/airflow/dags/test.py
+[2022-05-23 11:58:23,864] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 11:58:23,984] {logging_mixin.py:104} INFO - [2022-05-23 11:58:23,983] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 11:58:25,280] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:58:25,357] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 11:58:25.279939 입니다.
+[2022-05-23 11:58:25,363] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 11:58:25,879] {logging_mixin.py:104} INFO - [2022-05-23 11:58:25,468] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 11:58:25,978] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 11:58:27,134] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 3.729 seconds
+[2022-05-23 12:00:27,262] {scheduler_job.py:182} INFO - Started process (PID=4682) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:00:27,377] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:00:27,442] {logging_mixin.py:104} INFO - [2022-05-23 12:00:27,441] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:00:28,634] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:00:28,686] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:00:28.634563 입니다.
+[2022-05-23 12:00:28,723] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:00:29,241] {logging_mixin.py:104} INFO - [2022-05-23 12:00:28,896] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:00:29,434] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:00:30,789] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 3.865 seconds
+[2022-05-23 12:01:36,288] {scheduler_job.py:182} INFO - Started process (PID=4774) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:01:36,377] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:01:36,453] {logging_mixin.py:104} INFO - [2022-05-23 12:01:36,453] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:01:37,456] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:01:37,562] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:01:37.456108 입니다.
+[2022-05-23 12:01:37,629] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:01:38,116] {logging_mixin.py:104} INFO - [2022-05-23 12:01:37,719] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:01:38,203] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:01:39,253] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 3.292 seconds
+[2022-05-23 12:02:42,371] {scheduler_job.py:182} INFO - Started process (PID=4888) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:02:42,492] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:02:42,616] {logging_mixin.py:104} INFO - [2022-05-23 12:02:42,526] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:02:43,450] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:02:43,551] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:02:43.450516 입니다.
+[2022-05-23 12:02:43,609] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:02:44,076] {logging_mixin.py:104} INFO - [2022-05-23 12:02:43,717] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:02:44,169] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:02:44,986] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 2.923 seconds
+[2022-05-23 12:03:52,152] {scheduler_job.py:182} INFO - Started process (PID=4990) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:03:52,320] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:03:52,353] {logging_mixin.py:104} INFO - [2022-05-23 12:03:52,352] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:03:53,109] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:03:53,159] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:03:53.108994 입니다.
+[2022-05-23 12:03:53,200] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:03:53,572] {logging_mixin.py:104} INFO - [2022-05-23 12:03:53,321] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:03:53,653] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:03:54,627] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 2.731 seconds
+[2022-05-23 12:07:32,990] {scheduler_job.py:182} INFO - Started process (PID=5329) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:07:33,222] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:07:33,403] {logging_mixin.py:104} INFO - [2022-05-23 12:07:33,402] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:07:34,344] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:07:34,405] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:07:34.344173 입니다.
+[2022-05-23 12:07:34,445] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:07:34,765] {logging_mixin.py:104} INFO - [2022-05-23 12:07:34,516] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:07:34,829] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:07:35,572] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 2.868 seconds
+[2022-05-23 12:09:48,727] {scheduler_job.py:182} INFO - Started process (PID=5555) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:09:48,786] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:09:48,828] {logging_mixin.py:104} INFO - [2022-05-23 12:09:48,827] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:09:49,257] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:09:49,294] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:09:49.257033 입니다.
+[2022-05-23 12:09:49,311] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:09:49,491] {logging_mixin.py:104} INFO - [2022-05-23 12:09:49,358] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:09:49,527] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:09:50,363] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 1.842 seconds
+[2022-05-23 12:25:12,989] {scheduler_job.py:182} INFO - Started process (PID=249) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:25:13,023] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:25:13,028] {logging_mixin.py:104} INFO - [2022-05-23 12:25:13,027] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:25:13,211] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:25:13,215] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:25:13.211117 입니다.123123
+[2022-05-23 12:25:13,219] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:25:13,266] {logging_mixin.py:104} INFO - [2022-05-23 12:25:13,236] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:25:13,290] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:25:13,460] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.487 seconds
+[2022-05-23 12:26:58,585] {scheduler_job.py:182} INFO - Started process (PID=370) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:26:58,598] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:26:58,615] {logging_mixin.py:104} INFO - [2022-05-23 12:26:58,614] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:26:58,731] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:26:58,738] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:26:58.731548 입니다.123123
+[2022-05-23 12:26:58,744] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:26:58,801] {logging_mixin.py:104} INFO - [2022-05-23 12:26:58,760] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:26:58,814] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:26:58,957] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.411 seconds
+[2022-05-23 12:27:54,970] {scheduler_job.py:182} INFO - Started process (PID=450) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:27:54,975] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:27:54,994] {logging_mixin.py:104} INFO - [2022-05-23 12:27:54,994] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:27:55,144] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:27:55,149] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:27:55.144108 입니다.123123
+[2022-05-23 12:27:55,154] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:27:55,240] {logging_mixin.py:104} INFO - [2022-05-23 12:27:55,186] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:27:55,268] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:27:55,407] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.480 seconds
+[2022-05-23 12:28:49,825] {scheduler_job.py:182} INFO - Started process (PID=521) to work on /opt/airflow/dags/test.py
+[2022-05-23 12:28:49,852] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2022-05-23 12:28:49,859] {logging_mixin.py:104} INFO - [2022-05-23 12:28:49,857] {dagbag.py:487} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2022-05-23 12:28:49,949] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:28:49,963] {logging_mixin.py:104} INFO - 현재시간은 2022-05-23 12:28:49.949748 입니다.123123
+[2022-05-23 12:28:49,966] {logging_mixin.py:104} INFO - ====================================================================================================
+[2022-05-23 12:28:50,019] {logging_mixin.py:104} INFO - [2022-05-23 12:28:49,989] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 317, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/test.py", line 66, in <module>
+    dag = dag,
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/baseoperator.py", line 179, in apply_defaults
+    result = func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python.py", line 136, in __init__
+    raise AirflowException('`python_callable` param must be callable')
+airflow.exceptions.AirflowException: `python_callable` param must be callable
+[2022-05-23 12:28:50,037] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/test.py
+[2022-05-23 12:28:50,161] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/test.py took 0.368 seconds

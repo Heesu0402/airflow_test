@@ -1,0 +1,29 @@
+[2022-07-27 23:18:20,910] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: tutorial-python-op.start scheduled__2022-02-01T10:50:00+00:00 [queued]>
+[2022-07-27 23:18:20,932] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: tutorial-python-op.start scheduled__2022-02-01T10:50:00+00:00 [queued]>
+[2022-07-27 23:18:20,932] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-27 23:18:20,933] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2022-07-27 23:18:20,933] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-27 23:18:20,970] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): start> on 2022-02-01 10:50:00+00:00
+[2022-07-27 23:18:20,980] {standard_task_runner.py:52} INFO - Started process 48594 to run task
+[2022-07-27 23:18:20,985] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial-python-op', 'start', 'scheduled__2022-02-01T10:50:00+00:00', '--job-id', '89', '--raw', '--subdir', 'DAGS_FOLDER/test5.py', '--cfg-path', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmp32av0u1x', '--error-file', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmp8mbi4twl']
+[2022-07-27 23:18:20,986] {standard_task_runner.py:80} INFO - Job 89: Subtask start
+[2022-07-27 23:18:21,071] {task_command.py:369} INFO - Running <TaskInstance: tutorial-python-op.start scheduled__2022-02-01T10:50:00+00:00 [running]> on host janghuisuui-MacBookAir.local
+[2022-07-27 23:18:21,163] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=your-email@g.com
+AIRFLOW_CTX_DAG_OWNER=owner-name
+AIRFLOW_CTX_DAG_ID=tutorial-python-op
+AIRFLOW_CTX_TASK_ID=start
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-01T10:50:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-02-01T10:50:00+00:00
+[2022-07-27 23:18:21,164] {subprocess.py:62} INFO - Tmp dir root location: 
+ /var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T
+[2022-07-27 23:18:21,164] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'echo "start!!!!!"']
+[2022-07-27 23:18:21,181] {subprocess.py:85} INFO - Output:
+[2022-07-27 23:18:21,186] {subprocess.py:92} INFO - start!!!!!
+[2022-07-27 23:18:21,188] {subprocess.py:96} INFO - Command exited with return code 0
+[2022-07-27 23:18:21,259] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=tutorial-python-op, task_id=start, execution_date=20220201T105000, start_date=20220727T141820, end_date=20220727T141821
+[2022-07-27 23:18:21,326] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-07-27 23:18:21,492] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

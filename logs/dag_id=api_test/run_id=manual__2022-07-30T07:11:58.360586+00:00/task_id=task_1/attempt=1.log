@@ -1,0 +1,36 @@
+[2022-07-30 16:11:59,114] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: api_test.task_1 manual__2022-07-30T07:11:58.360586+00:00 [queued]>
+[2022-07-30 16:11:59,121] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: api_test.task_1 manual__2022-07-30T07:11:58.360586+00:00 [queued]>
+[2022-07-30 16:11:59,121] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-30 16:11:59,121] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-07-30 16:11:59,121] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-30 16:11:59,129] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): task_1> on 2022-07-30 07:11:58.360586+00:00
+[2022-07-30 16:11:59,135] {standard_task_runner.py:52} INFO - Started process 81805 to run task
+[2022-07-30 16:11:59,142] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'api_test', 'task_1', 'manual__2022-07-30T07:11:58.360586+00:00', '--job-id', '204', '--raw', '--subdir', 'DAGS_FOLDER/airflow_api_test.py', '--cfg-path', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmpk2uomk2q', '--error-file', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmpwcu4msv_']
+[2022-07-30 16:11:59,144] {standard_task_runner.py:80} INFO - Job 204: Subtask task_1
+[2022-07-30 16:11:59,202] {task_command.py:369} INFO - Running <TaskInstance: api_test.task_1 manual__2022-07-30T07:11:58.360586+00:00 [running]> on host janghuisuui-MacBookAir.local
+[2022-07-30 16:11:59,274] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=jovyan
+AIRFLOW_CTX_DAG_ID=api_test
+AIRFLOW_CTX_TASK_ID=task_1
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-30T07:11:58.360586+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-07-30T07:11:58.360586+00:00
+[2022-07-30 16:11:59,275] {logging_mixin.py:115} INFO - ===========base_url :  http://localhost:8080
+[2022-07-30 16:11:59,275] {logging_mixin.py:115} INFO - ===========sbu_url :  /api/v1/dags
+[2022-07-30 16:11:59,275] {logging_mixin.py:115} INFO - ===========user :  admin
+[2022-07-30 16:11:59,275] {logging_mixin.py:115} INFO - ===========pwd :  admin
+[2022-07-30 16:11:59,325] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/jangheesu/airflow/dags/airflow_api_test.py", line 33, in get_api
+    data = json.loads(rs.text)
+NameError: name 'json' is not defined
+[2022-07-30 16:11:59,334] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=api_test, task_id=task_1, execution_date=20220730T071158, start_date=20220730T071159, end_date=20220730T071159
+[2022-07-30 16:11:59,343] {standard_task_runner.py:92} ERROR - Failed to execute job 204 for task task_1 (name 'json' is not defined; 81805)
+[2022-07-30 16:11:59,359] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-07-30 16:11:59,390] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

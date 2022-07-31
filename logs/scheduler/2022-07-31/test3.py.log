@@ -1,0 +1,637 @@
+[2022-07-31 17:25:45,128] {processor.py:153} INFO - Started process (PID=2010) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:25:45,128] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:25:45,128] {logging_mixin.py:115} INFO - [2022-07-31 17:25:45,128] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:25:45,142] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:25:45,530] {logging_mixin.py:115} INFO - [2022-07-31 17:25:45,530] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:25:45,543] {logging_mixin.py:115} INFO - [2022-07-31 17:25:45,543] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:25:45,550] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.423 seconds
+[2022-07-31 17:26:16,342] {processor.py:153} INFO - Started process (PID=2118) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:26:16,342] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:26:16,343] {logging_mixin.py:115} INFO - [2022-07-31 17:26:16,342] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:26:16,356] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:26:16,397] {logging_mixin.py:115} INFO - [2022-07-31 17:26:16,397] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:26:16,412] {logging_mixin.py:115} INFO - [2022-07-31 17:26:16,412] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:26:16,419] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 17:26:47,453] {processor.py:153} INFO - Started process (PID=2329) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:26:47,453] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:26:47,453] {logging_mixin.py:115} INFO - [2022-07-31 17:26:47,453] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:26:47,467] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:26:47,508] {logging_mixin.py:115} INFO - [2022-07-31 17:26:47,508] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:26:47,522] {logging_mixin.py:115} INFO - [2022-07-31 17:26:47,522] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:26:47,528] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:27:18,182] {processor.py:153} INFO - Started process (PID=2528) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:27:18,183] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:27:18,183] {logging_mixin.py:115} INFO - [2022-07-31 17:27:18,183] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:27:18,196] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:27:18,234] {logging_mixin.py:115} INFO - [2022-07-31 17:27:18,234] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:27:18,247] {logging_mixin.py:115} INFO - [2022-07-31 17:27:18,247] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:27:18,253] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.072 seconds
+[2022-07-31 17:27:48,929] {processor.py:153} INFO - Started process (PID=2713) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:27:48,929] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:27:48,929] {logging_mixin.py:115} INFO - [2022-07-31 17:27:48,929] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:27:48,942] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:27:48,985] {logging_mixin.py:115} INFO - [2022-07-31 17:27:48,985] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:27:48,998] {logging_mixin.py:115} INFO - [2022-07-31 17:27:48,998] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:27:49,004] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 17:28:19,648] {processor.py:153} INFO - Started process (PID=2895) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:28:19,648] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:28:19,648] {logging_mixin.py:115} INFO - [2022-07-31 17:28:19,648] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:28:19,661] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:28:19,700] {logging_mixin.py:115} INFO - [2022-07-31 17:28:19,700] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:28:19,714] {logging_mixin.py:115} INFO - [2022-07-31 17:28:19,713] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:28:19,720] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.072 seconds
+[2022-07-31 17:28:50,373] {processor.py:153} INFO - Started process (PID=3116) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:28:50,373] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:28:50,373] {logging_mixin.py:115} INFO - [2022-07-31 17:28:50,373] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:28:50,387] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:28:50,429] {logging_mixin.py:115} INFO - [2022-07-31 17:28:50,429] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:28:50,443] {logging_mixin.py:115} INFO - [2022-07-31 17:28:50,442] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:28:50,448] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:29:21,480] {processor.py:153} INFO - Started process (PID=3312) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:29:21,481] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:29:21,482] {logging_mixin.py:115} INFO - [2022-07-31 17:29:21,481] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:29:21,495] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:29:21,536] {logging_mixin.py:115} INFO - [2022-07-31 17:29:21,536] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:29:21,548] {logging_mixin.py:115} INFO - [2022-07-31 17:29:21,548] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:29:21,554] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.074 seconds
+[2022-07-31 17:29:52,344] {processor.py:153} INFO - Started process (PID=3536) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:29:52,344] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:29:52,345] {logging_mixin.py:115} INFO - [2022-07-31 17:29:52,345] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:29:52,358] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:29:52,399] {logging_mixin.py:115} INFO - [2022-07-31 17:29:52,398] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:29:52,413] {logging_mixin.py:115} INFO - [2022-07-31 17:29:52,413] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:29:52,419] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 17:30:23,478] {processor.py:153} INFO - Started process (PID=3725) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:30:23,479] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:30:23,479] {logging_mixin.py:115} INFO - [2022-07-31 17:30:23,479] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:30:23,493] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:30:23,536] {logging_mixin.py:115} INFO - [2022-07-31 17:30:23,536] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:30:23,550] {logging_mixin.py:115} INFO - [2022-07-31 17:30:23,550] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:30:23,556] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.079 seconds
+[2022-07-31 17:31:11,797] {processor.py:153} INFO - Started process (PID=4075) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:31:11,798] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:31:11,798] {logging_mixin.py:115} INFO - [2022-07-31 17:31:11,798] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:31:11,812] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:31:11,859] {logging_mixin.py:115} INFO - [2022-07-31 17:31:11,859] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:31:11,875] {logging_mixin.py:115} INFO - [2022-07-31 17:31:11,875] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:31:11,882] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.085 seconds
+[2022-07-31 17:31:43,241] {processor.py:153} INFO - Started process (PID=4440) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:31:43,242] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:31:43,243] {logging_mixin.py:115} INFO - [2022-07-31 17:31:43,243] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:31:43,256] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:31:43,298] {logging_mixin.py:115} INFO - [2022-07-31 17:31:43,298] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:31:43,312] {logging_mixin.py:115} INFO - [2022-07-31 17:31:43,312] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:31:43,319] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.078 seconds
+[2022-07-31 17:32:14,443] {processor.py:153} INFO - Started process (PID=4628) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:32:14,443] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:32:14,444] {logging_mixin.py:115} INFO - [2022-07-31 17:32:14,444] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:32:14,462] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:32:14,503] {logging_mixin.py:115} INFO - [2022-07-31 17:32:14,503] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:32:14,518] {logging_mixin.py:115} INFO - [2022-07-31 17:32:14,518] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:32:14,524] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.082 seconds
+[2022-07-31 17:32:45,550] {processor.py:153} INFO - Started process (PID=4848) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:32:45,551] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:32:45,553] {logging_mixin.py:115} INFO - [2022-07-31 17:32:45,553] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:32:45,566] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:32:45,605] {logging_mixin.py:115} INFO - [2022-07-31 17:32:45,604] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:32:45,618] {logging_mixin.py:115} INFO - [2022-07-31 17:32:45,618] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:32:45,623] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.073 seconds
+[2022-07-31 17:33:16,513] {processor.py:153} INFO - Started process (PID=5068) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:33:16,514] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:33:16,514] {logging_mixin.py:115} INFO - [2022-07-31 17:33:16,514] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:33:16,527] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:33:16,570] {logging_mixin.py:115} INFO - [2022-07-31 17:33:16,570] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:33:16,584] {logging_mixin.py:115} INFO - [2022-07-31 17:33:16,583] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:33:16,590] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 17:33:47,248] {processor.py:153} INFO - Started process (PID=5254) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:33:47,249] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:33:47,249] {logging_mixin.py:115} INFO - [2022-07-31 17:33:47,249] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:33:47,262] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:33:47,303] {logging_mixin.py:115} INFO - [2022-07-31 17:33:47,303] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:33:47,316] {logging_mixin.py:115} INFO - [2022-07-31 17:33:47,316] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:33:47,323] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 17:34:18,309] {processor.py:153} INFO - Started process (PID=5437) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:34:18,309] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:34:18,309] {logging_mixin.py:115} INFO - [2022-07-31 17:34:18,309] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:34:18,323] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:34:18,365] {logging_mixin.py:115} INFO - [2022-07-31 17:34:18,365] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:34:18,378] {logging_mixin.py:115} INFO - [2022-07-31 17:34:18,378] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:34:18,384] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:34:49,088] {processor.py:153} INFO - Started process (PID=5633) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:34:49,089] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:34:49,089] {logging_mixin.py:115} INFO - [2022-07-31 17:34:49,089] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:34:49,103] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:34:49,146] {logging_mixin.py:115} INFO - [2022-07-31 17:34:49,146] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:34:49,160] {logging_mixin.py:115} INFO - [2022-07-31 17:34:49,160] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:34:49,166] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.078 seconds
+[2022-07-31 17:35:19,818] {processor.py:153} INFO - Started process (PID=5817) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:35:19,818] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:35:19,818] {logging_mixin.py:115} INFO - [2022-07-31 17:35:19,818] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:35:19,831] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:35:19,873] {logging_mixin.py:115} INFO - [2022-07-31 17:35:19,873] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:35:19,888] {logging_mixin.py:115} INFO - [2022-07-31 17:35:19,888] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:35:19,894] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:35:50,395] {processor.py:153} INFO - Started process (PID=6001) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:35:50,395] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:35:50,396] {logging_mixin.py:115} INFO - [2022-07-31 17:35:50,396] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:35:50,409] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:35:50,448] {logging_mixin.py:115} INFO - [2022-07-31 17:35:50,448] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:35:50,462] {logging_mixin.py:115} INFO - [2022-07-31 17:35:50,462] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:35:50,469] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.074 seconds
+[2022-07-31 17:36:21,358] {processor.py:153} INFO - Started process (PID=6193) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:36:21,364] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:36:21,365] {logging_mixin.py:115} INFO - [2022-07-31 17:36:21,365] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:36:21,379] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:36:21,422] {logging_mixin.py:115} INFO - [2022-07-31 17:36:21,421] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:36:21,435] {logging_mixin.py:115} INFO - [2022-07-31 17:36:21,435] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:36:21,441] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.084 seconds
+[2022-07-31 17:36:52,122] {processor.py:153} INFO - Started process (PID=6377) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:36:52,123] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:36:52,124] {logging_mixin.py:115} INFO - [2022-07-31 17:36:52,123] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:36:52,137] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:36:52,178] {logging_mixin.py:115} INFO - [2022-07-31 17:36:52,178] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:36:52,198] {logging_mixin.py:115} INFO - [2022-07-31 17:36:52,198] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:36:52,204] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.082 seconds
+[2022-07-31 17:37:22,982] {processor.py:153} INFO - Started process (PID=6562) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:37:22,983] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:37:22,983] {logging_mixin.py:115} INFO - [2022-07-31 17:37:22,983] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:37:22,997] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:37:23,038] {logging_mixin.py:115} INFO - [2022-07-31 17:37:23,038] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:37:23,052] {logging_mixin.py:115} INFO - [2022-07-31 17:37:23,052] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:37:23,058] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:37:53,775] {processor.py:153} INFO - Started process (PID=6744) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:37:53,775] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:37:53,775] {logging_mixin.py:115} INFO - [2022-07-31 17:37:53,775] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:37:53,788] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:37:53,829] {logging_mixin.py:115} INFO - [2022-07-31 17:37:53,829] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:37:53,842] {logging_mixin.py:115} INFO - [2022-07-31 17:37:53,842] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:37:53,849] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.074 seconds
+[2022-07-31 17:38:24,664] {processor.py:153} INFO - Started process (PID=7060) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:38:24,665] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:38:24,665] {logging_mixin.py:115} INFO - [2022-07-31 17:38:24,665] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:38:24,679] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:38:24,722] {logging_mixin.py:115} INFO - [2022-07-31 17:38:24,722] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:38:24,736] {logging_mixin.py:115} INFO - [2022-07-31 17:38:24,736] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:38:24,743] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.079 seconds
+[2022-07-31 17:38:55,385] {processor.py:153} INFO - Started process (PID=7324) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:38:55,386] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:38:55,386] {logging_mixin.py:115} INFO - [2022-07-31 17:38:55,386] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:38:55,400] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:38:55,440] {logging_mixin.py:115} INFO - [2022-07-31 17:38:55,440] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:38:55,453] {logging_mixin.py:115} INFO - [2022-07-31 17:38:55,453] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:38:55,462] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 17:39:26,542] {processor.py:153} INFO - Started process (PID=7503) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:39:26,543] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:39:26,544] {logging_mixin.py:115} INFO - [2022-07-31 17:39:26,544] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:39:26,558] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:39:26,598] {logging_mixin.py:115} INFO - [2022-07-31 17:39:26,598] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:39:26,614] {logging_mixin.py:115} INFO - [2022-07-31 17:39:26,614] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:39:26,619] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.078 seconds
+[2022-07-31 17:39:57,234] {processor.py:153} INFO - Started process (PID=7693) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:39:57,235] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:39:57,235] {logging_mixin.py:115} INFO - [2022-07-31 17:39:57,235] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:39:57,248] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:39:57,290] {logging_mixin.py:115} INFO - [2022-07-31 17:39:57,290] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:39:57,304] {logging_mixin.py:115} INFO - [2022-07-31 17:39:57,304] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:39:57,311] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.078 seconds
+[2022-07-31 17:40:28,187] {processor.py:153} INFO - Started process (PID=7877) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:40:28,187] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:40:28,187] {logging_mixin.py:115} INFO - [2022-07-31 17:40:28,187] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:40:28,201] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:40:28,241] {logging_mixin.py:115} INFO - [2022-07-31 17:40:28,241] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:40:28,254] {logging_mixin.py:115} INFO - [2022-07-31 17:40:28,254] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:40:28,261] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.074 seconds
+[2022-07-31 17:40:59,133] {processor.py:153} INFO - Started process (PID=8143) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:40:59,133] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:40:59,134] {logging_mixin.py:115} INFO - [2022-07-31 17:40:59,134] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:40:59,148] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:40:59,189] {logging_mixin.py:115} INFO - [2022-07-31 17:40:59,189] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:40:59,203] {logging_mixin.py:115} INFO - [2022-07-31 17:40:59,203] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:40:59,209] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:41:29,926] {processor.py:153} INFO - Started process (PID=8368) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:41:29,926] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:41:29,926] {logging_mixin.py:115} INFO - [2022-07-31 17:41:29,926] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:41:29,940] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:41:29,980] {logging_mixin.py:115} INFO - [2022-07-31 17:41:29,980] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:41:29,993] {logging_mixin.py:115} INFO - [2022-07-31 17:41:29,993] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:41:29,998] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.073 seconds
+[2022-07-31 17:42:00,844] {processor.py:153} INFO - Started process (PID=8555) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:42:00,844] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:42:00,844] {logging_mixin.py:115} INFO - [2022-07-31 17:42:00,844] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:42:00,859] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:42:00,902] {logging_mixin.py:115} INFO - [2022-07-31 17:42:00,902] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:42:00,918] {logging_mixin.py:115} INFO - [2022-07-31 17:42:00,918] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:42:00,925] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.082 seconds
+[2022-07-31 17:42:31,500] {processor.py:153} INFO - Started process (PID=8745) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:42:31,500] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:42:31,500] {logging_mixin.py:115} INFO - [2022-07-31 17:42:31,500] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:42:31,513] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:42:31,556] {logging_mixin.py:115} INFO - [2022-07-31 17:42:31,556] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:42:31,570] {logging_mixin.py:115} INFO - [2022-07-31 17:42:31,570] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:42:31,577] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 17:43:02,554] {processor.py:153} INFO - Started process (PID=8929) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:43:02,554] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:43:02,554] {logging_mixin.py:115} INFO - [2022-07-31 17:43:02,554] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:43:02,568] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:43:02,612] {logging_mixin.py:115} INFO - [2022-07-31 17:43:02,612] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:43:02,642] {logging_mixin.py:115} INFO - [2022-07-31 17:43:02,642] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:43:02,648] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.095 seconds
+[2022-07-31 17:43:33,161] {processor.py:153} INFO - Started process (PID=9112) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:43:33,161] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:43:33,161] {logging_mixin.py:115} INFO - [2022-07-31 17:43:33,161] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:43:33,174] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:43:33,215] {logging_mixin.py:115} INFO - [2022-07-31 17:43:33,215] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:43:33,229] {logging_mixin.py:115} INFO - [2022-07-31 17:43:33,229] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:43:33,235] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 17:44:04,225] {processor.py:153} INFO - Started process (PID=9290) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:44:04,225] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:44:04,225] {logging_mixin.py:115} INFO - [2022-07-31 17:44:04,225] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:44:04,238] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:44:04,280] {logging_mixin.py:115} INFO - [2022-07-31 17:44:04,280] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:44:04,294] {logging_mixin.py:115} INFO - [2022-07-31 17:44:04,294] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:44:04,300] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:44:34,878] {processor.py:153} INFO - Started process (PID=9481) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:44:34,879] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:44:34,879] {logging_mixin.py:115} INFO - [2022-07-31 17:44:34,879] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:44:34,892] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:44:34,933] {logging_mixin.py:115} INFO - [2022-07-31 17:44:34,933] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:44:34,948] {logging_mixin.py:115} INFO - [2022-07-31 17:44:34,948] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:44:34,953] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 17:45:05,894] {processor.py:153} INFO - Started process (PID=9706) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:45:05,894] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:45:05,894] {logging_mixin.py:115} INFO - [2022-07-31 17:45:05,894] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:45:05,907] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:45:05,949] {logging_mixin.py:115} INFO - [2022-07-31 17:45:05,949] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:45:05,963] {logging_mixin.py:115} INFO - [2022-07-31 17:45:05,963] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:45:05,970] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:45:36,566] {processor.py:153} INFO - Started process (PID=9974) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:45:36,566] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:45:36,566] {logging_mixin.py:115} INFO - [2022-07-31 17:45:36,566] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:45:36,580] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:45:36,621] {logging_mixin.py:115} INFO - [2022-07-31 17:45:36,621] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:45:36,633] {logging_mixin.py:115} INFO - [2022-07-31 17:45:36,633] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:45:36,639] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.074 seconds
+[2022-07-31 17:46:07,379] {processor.py:153} INFO - Started process (PID=10198) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:46:07,379] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:46:07,379] {logging_mixin.py:115} INFO - [2022-07-31 17:46:07,379] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:46:07,392] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:46:07,435] {logging_mixin.py:115} INFO - [2022-07-31 17:46:07,435] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:46:07,449] {logging_mixin.py:115} INFO - [2022-07-31 17:46:07,449] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:46:07,455] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 17:46:30,887] {processor.py:153} INFO - Started process (PID=10494) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:46:30,888] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:46:30,888] {logging_mixin.py:115} INFO - [2022-07-31 17:46:30,888] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:46:30,906] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:46:30,958] {logging_mixin.py:115} INFO - [2022-07-31 17:46:30,958] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:46:30,973] {logging_mixin.py:115} INFO - [2022-07-31 17:46:30,973] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:46:30,981] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.095 seconds
+[2022-07-31 17:47:02,124] {processor.py:153} INFO - Started process (PID=10723) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:47:02,125] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:47:02,125] {logging_mixin.py:115} INFO - [2022-07-31 17:47:02,125] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:47:02,140] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:47:02,180] {logging_mixin.py:115} INFO - [2022-07-31 17:47:02,180] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:47:02,194] {logging_mixin.py:115} INFO - [2022-07-31 17:47:02,194] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:47:02,200] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:47:33,365] {processor.py:153} INFO - Started process (PID=10946) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:47:33,366] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:47:33,366] {logging_mixin.py:115} INFO - [2022-07-31 17:47:33,366] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:47:33,380] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:47:33,422] {logging_mixin.py:115} INFO - [2022-07-31 17:47:33,422] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:47:33,435] {logging_mixin.py:115} INFO - [2022-07-31 17:47:33,435] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:47:33,441] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:48:04,431] {processor.py:153} INFO - Started process (PID=11125) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:48:04,431] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:48:04,431] {logging_mixin.py:115} INFO - [2022-07-31 17:48:04,431] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:48:04,443] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:48:04,484] {logging_mixin.py:115} INFO - [2022-07-31 17:48:04,484] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:48:04,497] {logging_mixin.py:115} INFO - [2022-07-31 17:48:04,497] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:48:04,504] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.073 seconds
+[2022-07-31 17:48:35,446] {processor.py:153} INFO - Started process (PID=11469) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:48:35,446] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:48:35,447] {logging_mixin.py:115} INFO - [2022-07-31 17:48:35,447] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:48:35,460] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:48:35,501] {logging_mixin.py:115} INFO - [2022-07-31 17:48:35,501] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:48:35,516] {logging_mixin.py:115} INFO - [2022-07-31 17:48:35,516] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:48:35,522] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:49:00,086] {processor.py:153} INFO - Started process (PID=11703) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:49:00,087] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:49:00,087] {logging_mixin.py:115} INFO - [2022-07-31 17:49:00,087] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:49:00,102] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:49:00,145] {logging_mixin.py:115} INFO - [2022-07-31 17:49:00,145] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:49:00,159] {logging_mixin.py:115} INFO - [2022-07-31 17:49:00,159] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:49:00,165] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.080 seconds
+[2022-07-31 17:49:31,584] {processor.py:153} INFO - Started process (PID=11886) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:49:31,585] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:49:31,585] {logging_mixin.py:115} INFO - [2022-07-31 17:49:31,585] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:49:31,599] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:49:31,644] {logging_mixin.py:115} INFO - [2022-07-31 17:49:31,643] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:49:31,658] {logging_mixin.py:115} INFO - [2022-07-31 17:49:31,658] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:49:31,665] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.081 seconds
+[2022-07-31 17:50:02,535] {processor.py:153} INFO - Started process (PID=12171) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:50:02,536] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:50:02,537] {logging_mixin.py:115} INFO - [2022-07-31 17:50:02,537] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:50:02,551] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:50:02,590] {logging_mixin.py:115} INFO - [2022-07-31 17:50:02,590] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:50:02,602] {logging_mixin.py:115} INFO - [2022-07-31 17:50:02,602] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:50:02,607] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.073 seconds
+[2022-07-31 17:50:33,385] {processor.py:153} INFO - Started process (PID=12366) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:50:33,386] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:50:33,386] {logging_mixin.py:115} INFO - [2022-07-31 17:50:33,386] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:50:33,399] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:50:33,442] {logging_mixin.py:115} INFO - [2022-07-31 17:50:33,442] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:50:33,456] {logging_mixin.py:115} INFO - [2022-07-31 17:50:33,456] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:50:33,463] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.078 seconds
+[2022-07-31 17:51:04,013] {processor.py:153} INFO - Started process (PID=12538) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:51:04,014] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:51:04,014] {logging_mixin.py:115} INFO - [2022-07-31 17:51:04,014] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:51:04,028] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:51:04,071] {logging_mixin.py:115} INFO - [2022-07-31 17:51:04,071] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:51:04,085] {logging_mixin.py:115} INFO - [2022-07-31 17:51:04,085] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:51:04,093] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.080 seconds
+[2022-07-31 17:51:34,938] {processor.py:153} INFO - Started process (PID=12718) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:51:34,938] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:51:34,938] {logging_mixin.py:115} INFO - [2022-07-31 17:51:34,938] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:51:34,952] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:51:34,993] {logging_mixin.py:115} INFO - [2022-07-31 17:51:34,993] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:51:35,007] {logging_mixin.py:115} INFO - [2022-07-31 17:51:35,007] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:51:35,013] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 17:52:06,015] {processor.py:153} INFO - Started process (PID=12936) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:52:06,016] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:52:06,016] {logging_mixin.py:115} INFO - [2022-07-31 17:52:06,016] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:52:06,030] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:52:06,071] {logging_mixin.py:115} INFO - [2022-07-31 17:52:06,071] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:52:06,084] {logging_mixin.py:115} INFO - [2022-07-31 17:52:06,083] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:52:06,090] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 17:52:36,685] {processor.py:153} INFO - Started process (PID=13117) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:52:36,686] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:52:36,686] {logging_mixin.py:115} INFO - [2022-07-31 17:52:36,686] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:52:36,699] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:52:36,739] {logging_mixin.py:115} INFO - [2022-07-31 17:52:36,739] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:52:36,752] {logging_mixin.py:115} INFO - [2022-07-31 17:52:36,752] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:52:36,759] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.074 seconds
+[2022-07-31 17:53:08,026] {processor.py:153} INFO - Started process (PID=13382) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:53:08,027] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:53:08,027] {logging_mixin.py:115} INFO - [2022-07-31 17:53:08,027] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:53:08,041] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:53:08,081] {logging_mixin.py:115} INFO - [2022-07-31 17:53:08,081] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:53:08,095] {logging_mixin.py:115} INFO - [2022-07-31 17:53:08,094] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:53:08,101] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 17:53:39,077] {processor.py:153} INFO - Started process (PID=13606) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:53:39,077] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:53:39,077] {logging_mixin.py:115} INFO - [2022-07-31 17:53:39,077] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:53:39,091] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:53:39,133] {logging_mixin.py:115} INFO - [2022-07-31 17:53:39,133] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:53:39,147] {logging_mixin.py:115} INFO - [2022-07-31 17:53:39,147] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:53:39,153] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 17:54:09,662] {processor.py:153} INFO - Started process (PID=13788) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:54:09,663] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:54:09,663] {logging_mixin.py:115} INFO - [2022-07-31 17:54:09,663] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:54:09,677] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:54:09,718] {logging_mixin.py:115} INFO - [2022-07-31 17:54:09,718] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:54:09,731] {logging_mixin.py:115} INFO - [2022-07-31 17:54:09,731] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:54:09,737] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 17:54:40,484] {processor.py:153} INFO - Started process (PID=13979) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:54:40,485] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:54:40,485] {logging_mixin.py:115} INFO - [2022-07-31 17:54:40,485] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:54:40,500] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:54:40,541] {logging_mixin.py:115} INFO - [2022-07-31 17:54:40,541] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:54:40,559] {logging_mixin.py:115} INFO - [2022-07-31 17:54:40,559] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:54:40,564] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.081 seconds
+[2022-07-31 17:55:11,423] {processor.py:153} INFO - Started process (PID=14172) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:55:11,424] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:55:11,424] {logging_mixin.py:115} INFO - [2022-07-31 17:55:11,424] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:55:11,437] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:55:11,480] {logging_mixin.py:115} INFO - [2022-07-31 17:55:11,480] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:55:11,493] {logging_mixin.py:115} INFO - [2022-07-31 17:55:11,493] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:55:11,500] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 17:55:42,177] {processor.py:153} INFO - Started process (PID=14369) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:55:42,178] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:55:42,178] {logging_mixin.py:115} INFO - [2022-07-31 17:55:42,178] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:55:42,191] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:55:42,233] {logging_mixin.py:115} INFO - [2022-07-31 17:55:42,233] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:55:42,247] {logging_mixin.py:115} INFO - [2022-07-31 17:55:42,247] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:55:42,252] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:56:12,866] {processor.py:153} INFO - Started process (PID=14556) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:56:12,866] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:56:12,866] {logging_mixin.py:115} INFO - [2022-07-31 17:56:12,866] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:56:12,881] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:56:12,922] {logging_mixin.py:115} INFO - [2022-07-31 17:56:12,922] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:56:12,936] {logging_mixin.py:115} INFO - [2022-07-31 17:56:12,936] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:56:12,943] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 17:56:43,677] {processor.py:153} INFO - Started process (PID=14753) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:56:43,677] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:56:43,678] {logging_mixin.py:115} INFO - [2022-07-31 17:56:43,678] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:56:43,691] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:56:43,733] {logging_mixin.py:115} INFO - [2022-07-31 17:56:43,733] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:56:43,750] {logging_mixin.py:115} INFO - [2022-07-31 17:56:43,750] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:56:43,756] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.079 seconds
+[2022-07-31 17:57:14,532] {processor.py:153} INFO - Started process (PID=14943) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:57:14,532] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:57:14,532] {logging_mixin.py:115} INFO - [2022-07-31 17:57:14,532] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:57:14,546] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:57:14,586] {logging_mixin.py:115} INFO - [2022-07-31 17:57:14,585] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:57:14,598] {logging_mixin.py:115} INFO - [2022-07-31 17:57:14,598] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:57:14,605] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.074 seconds
+[2022-07-31 17:57:45,724] {processor.py:153} INFO - Started process (PID=15145) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:57:45,725] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:57:45,726] {logging_mixin.py:115} INFO - [2022-07-31 17:57:45,726] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:57:45,739] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:57:45,781] {logging_mixin.py:115} INFO - [2022-07-31 17:57:45,781] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:57:45,796] {logging_mixin.py:115} INFO - [2022-07-31 17:57:45,796] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:57:45,802] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.078 seconds
+[2022-07-31 17:58:16,378] {processor.py:153} INFO - Started process (PID=15335) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:58:16,378] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:58:16,378] {logging_mixin.py:115} INFO - [2022-07-31 17:58:16,378] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:58:16,392] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:58:16,433] {logging_mixin.py:115} INFO - [2022-07-31 17:58:16,432] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:58:16,447] {logging_mixin.py:115} INFO - [2022-07-31 17:58:16,447] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:58:16,453] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 17:58:47,556] {processor.py:153} INFO - Started process (PID=15542) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:58:47,556] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:58:47,557] {logging_mixin.py:115} INFO - [2022-07-31 17:58:47,557] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:58:47,571] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:58:47,614] {logging_mixin.py:115} INFO - [2022-07-31 17:58:47,614] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:58:47,628] {logging_mixin.py:115} INFO - [2022-07-31 17:58:47,627] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:58:47,635] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.079 seconds
+[2022-07-31 17:59:18,449] {processor.py:153} INFO - Started process (PID=15718) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:59:18,449] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:59:18,449] {logging_mixin.py:115} INFO - [2022-07-31 17:59:18,449] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:59:18,462] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:59:18,503] {logging_mixin.py:115} INFO - [2022-07-31 17:59:18,503] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:59:18,515] {logging_mixin.py:115} INFO - [2022-07-31 17:59:18,515] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:59:18,520] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.072 seconds
+[2022-07-31 17:59:49,080] {processor.py:153} INFO - Started process (PID=15896) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:59:49,080] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 17:59:49,080] {logging_mixin.py:115} INFO - [2022-07-31 17:59:49,080] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:59:49,093] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 17:59:49,135] {logging_mixin.py:115} INFO - [2022-07-31 17:59:49,135] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 17:59:49,150] {logging_mixin.py:115} INFO - [2022-07-31 17:59:49,150] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 17:59:49,157] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 18:00:19,962] {processor.py:153} INFO - Started process (PID=16071) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:00:19,962] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:00:19,962] {logging_mixin.py:115} INFO - [2022-07-31 18:00:19,962] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:00:19,975] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:00:20,016] {logging_mixin.py:115} INFO - [2022-07-31 18:00:20,016] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:00:20,030] {logging_mixin.py:115} INFO - [2022-07-31 18:00:20,030] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:00:20,036] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.074 seconds
+[2022-07-31 18:00:50,612] {processor.py:153} INFO - Started process (PID=16248) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:00:50,612] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:00:50,612] {logging_mixin.py:115} INFO - [2022-07-31 18:00:50,612] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:00:50,625] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:00:50,666] {logging_mixin.py:115} INFO - [2022-07-31 18:00:50,666] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:00:50,680] {logging_mixin.py:115} INFO - [2022-07-31 18:00:50,680] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:00:50,687] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 18:01:21,302] {processor.py:153} INFO - Started process (PID=16427) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:01:21,302] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:01:21,302] {logging_mixin.py:115} INFO - [2022-07-31 18:01:21,302] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:01:21,315] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:01:21,358] {logging_mixin.py:115} INFO - [2022-07-31 18:01:21,358] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:01:21,374] {logging_mixin.py:115} INFO - [2022-07-31 18:01:21,374] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:01:21,380] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.079 seconds
+[2022-07-31 18:01:52,351] {processor.py:153} INFO - Started process (PID=16608) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:01:52,351] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:01:52,352] {logging_mixin.py:115} INFO - [2022-07-31 18:01:52,352] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:01:52,365] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:01:52,406] {logging_mixin.py:115} INFO - [2022-07-31 18:01:52,406] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:01:52,420] {logging_mixin.py:115} INFO - [2022-07-31 18:01:52,420] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:01:52,427] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 18:02:23,368] {processor.py:153} INFO - Started process (PID=16789) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:02:23,368] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:02:23,369] {logging_mixin.py:115} INFO - [2022-07-31 18:02:23,369] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:02:23,382] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:02:23,425] {logging_mixin.py:115} INFO - [2022-07-31 18:02:23,425] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:02:23,440] {logging_mixin.py:115} INFO - [2022-07-31 18:02:23,440] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:02:23,446] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.078 seconds
+[2022-07-31 18:02:54,364] {processor.py:153} INFO - Started process (PID=16971) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:02:54,364] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:02:54,364] {logging_mixin.py:115} INFO - [2022-07-31 18:02:54,364] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:02:54,378] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:02:54,419] {logging_mixin.py:115} INFO - [2022-07-31 18:02:54,419] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:02:54,433] {logging_mixin.py:115} INFO - [2022-07-31 18:02:54,433] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:02:54,440] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 18:03:25,003] {processor.py:153} INFO - Started process (PID=17151) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:03:25,003] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:03:25,003] {logging_mixin.py:115} INFO - [2022-07-31 18:03:25,003] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:03:25,016] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:03:25,057] {logging_mixin.py:115} INFO - [2022-07-31 18:03:25,057] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:03:25,071] {logging_mixin.py:115} INFO - [2022-07-31 18:03:25,071] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:03:25,078] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 18:03:56,052] {processor.py:153} INFO - Started process (PID=17332) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:03:56,052] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:03:56,052] {logging_mixin.py:115} INFO - [2022-07-31 18:03:56,052] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:03:56,065] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:03:56,107] {logging_mixin.py:115} INFO - [2022-07-31 18:03:56,106] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:03:56,120] {logging_mixin.py:115} INFO - [2022-07-31 18:03:56,120] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:03:56,126] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 18:04:27,037] {processor.py:153} INFO - Started process (PID=17516) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:04:27,037] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:04:27,037] {logging_mixin.py:115} INFO - [2022-07-31 18:04:27,037] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:04:27,051] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:04:27,093] {logging_mixin.py:115} INFO - [2022-07-31 18:04:27,093] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:04:27,107] {logging_mixin.py:115} INFO - [2022-07-31 18:04:27,107] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:04:27,113] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 18:04:58,075] {processor.py:153} INFO - Started process (PID=17700) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:04:58,075] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:04:58,075] {logging_mixin.py:115} INFO - [2022-07-31 18:04:58,075] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:04:58,088] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:04:58,131] {logging_mixin.py:115} INFO - [2022-07-31 18:04:58,131] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:04:58,145] {logging_mixin.py:115} INFO - [2022-07-31 18:04:58,145] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:04:58,151] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.077 seconds
+[2022-07-31 18:05:28,657] {processor.py:153} INFO - Started process (PID=17882) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:05:28,657] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:05:28,657] {logging_mixin.py:115} INFO - [2022-07-31 18:05:28,657] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:05:28,670] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:05:28,712] {logging_mixin.py:115} INFO - [2022-07-31 18:05:28,711] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:05:28,726] {logging_mixin.py:115} INFO - [2022-07-31 18:05:28,726] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:05:28,732] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 18:05:59,628] {processor.py:153} INFO - Started process (PID=18065) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:05:59,628] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 18:05:59,628] {logging_mixin.py:115} INFO - [2022-07-31 18:05:59,628] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:05:59,641] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 18:05:59,681] {logging_mixin.py:115} INFO - [2022-07-31 18:05:59,681] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 18:05:59,695] {logging_mixin.py:115} INFO - [2022-07-31 18:05:59,695] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 18:05:59,702] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.074 seconds
+[2022-07-31 21:52:45,157] {processor.py:153} INFO - Started process (PID=19325) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:52:45,158] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:52:45,159] {logging_mixin.py:115} INFO - [2022-07-31 21:52:45,159] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:52:45,173] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:52:45,216] {logging_mixin.py:115} INFO - [2022-07-31 21:52:45,215] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:52:45,230] {logging_mixin.py:115} INFO - [2022-07-31 21:52:45,230] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:52:45,236] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.080 seconds
+[2022-07-31 21:53:16,399] {processor.py:153} INFO - Started process (PID=19527) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:53:16,399] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:53:16,399] {logging_mixin.py:115} INFO - [2022-07-31 21:53:16,399] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:53:16,413] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:53:16,454] {logging_mixin.py:115} INFO - [2022-07-31 21:53:16,454] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:53:16,469] {logging_mixin.py:115} INFO - [2022-07-31 21:53:16,468] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:53:16,474] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 21:53:47,902] {processor.py:153} INFO - Started process (PID=19714) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:53:47,902] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:53:47,903] {logging_mixin.py:115} INFO - [2022-07-31 21:53:47,903] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:53:47,915] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:53:47,958] {logging_mixin.py:115} INFO - [2022-07-31 21:53:47,958] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:53:47,971] {logging_mixin.py:115} INFO - [2022-07-31 21:53:47,971] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:53:47,977] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 21:54:18,879] {processor.py:153} INFO - Started process (PID=19895) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:54:18,879] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:54:18,879] {logging_mixin.py:115} INFO - [2022-07-31 21:54:18,879] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:54:18,892] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:54:18,931] {logging_mixin.py:115} INFO - [2022-07-31 21:54:18,930] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:54:18,944] {logging_mixin.py:115} INFO - [2022-07-31 21:54:18,944] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:54:18,950] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.072 seconds
+[2022-07-31 21:54:49,905] {processor.py:153} INFO - Started process (PID=20076) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:54:49,905] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:54:49,905] {logging_mixin.py:115} INFO - [2022-07-31 21:54:49,905] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:54:49,918] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:54:49,957] {logging_mixin.py:115} INFO - [2022-07-31 21:54:49,957] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:54:49,970] {logging_mixin.py:115} INFO - [2022-07-31 21:54:49,970] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:54:49,976] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.072 seconds
+[2022-07-31 21:55:20,884] {processor.py:153} INFO - Started process (PID=20258) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:55:20,884] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:55:20,884] {logging_mixin.py:115} INFO - [2022-07-31 21:55:20,884] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:55:20,897] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:55:20,935] {logging_mixin.py:115} INFO - [2022-07-31 21:55:20,935] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:55:20,948] {logging_mixin.py:115} INFO - [2022-07-31 21:55:20,948] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:55:20,954] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.071 seconds
+[2022-07-31 21:55:51,895] {processor.py:153} INFO - Started process (PID=20440) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:55:51,895] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:55:51,896] {logging_mixin.py:115} INFO - [2022-07-31 21:55:51,895] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:55:51,909] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:55:51,951] {logging_mixin.py:115} INFO - [2022-07-31 21:55:51,951] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:55:51,965] {logging_mixin.py:115} INFO - [2022-07-31 21:55:51,965] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:55:51,970] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.076 seconds
+[2022-07-31 21:56:22,928] {processor.py:153} INFO - Started process (PID=20624) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:56:22,928] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:56:22,928] {logging_mixin.py:115} INFO - [2022-07-31 21:56:22,928] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:56:22,941] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:56:22,983] {logging_mixin.py:115} INFO - [2022-07-31 21:56:22,983] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:56:22,997] {logging_mixin.py:115} INFO - [2022-07-31 21:56:22,996] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:56:23,003] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 21:56:53,932] {processor.py:153} INFO - Started process (PID=20810) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:56:53,933] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:56:53,933] {logging_mixin.py:115} INFO - [2022-07-31 21:56:53,933] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:56:53,946] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:56:53,986] {logging_mixin.py:115} INFO - [2022-07-31 21:56:53,985] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:56:53,999] {logging_mixin.py:115} INFO - [2022-07-31 21:56:53,999] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:56:54,005] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.073 seconds
+[2022-07-31 21:57:24,877] {processor.py:153} INFO - Started process (PID=20996) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:57:24,878] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:57:24,878] {logging_mixin.py:115} INFO - [2022-07-31 21:57:24,878] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:57:24,892] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:57:24,939] {logging_mixin.py:115} INFO - [2022-07-31 21:57:24,939] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:57:24,953] {logging_mixin.py:115} INFO - [2022-07-31 21:57:24,953] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:57:24,959] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.082 seconds
+[2022-07-31 21:57:55,559] {processor.py:153} INFO - Started process (PID=21181) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:57:55,560] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:57:55,560] {logging_mixin.py:115} INFO - [2022-07-31 21:57:55,560] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:57:55,573] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:57:55,613] {logging_mixin.py:115} INFO - [2022-07-31 21:57:55,613] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:57:55,627] {logging_mixin.py:115} INFO - [2022-07-31 21:57:55,627] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:57:55,633] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.075 seconds
+[2022-07-31 21:58:26,492] {processor.py:153} INFO - Started process (PID=21398) to work on /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:58:26,492] {processor.py:641} INFO - Processing file /Users/jangheesu/airflow/dags/test3.py for tasks to queue
+[2022-07-31 21:58:26,492] {logging_mixin.py:115} INFO - [2022-07-31 21:58:26,492] {dagbag.py:507} INFO - Filling up the DagBag from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:58:26,508] {processor.py:651} INFO - DAG(s) dict_keys(['my_python_dag']) retrieved from /Users/jangheesu/airflow/dags/test3.py
+[2022-07-31 21:58:26,554] {logging_mixin.py:115} INFO - [2022-07-31 21:58:26,554] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-31 21:58:26,568] {logging_mixin.py:115} INFO - [2022-07-31 21:58:26,568] {dag.py:2915} INFO - Setting next_dagrun for my_python_dag to 2022-07-31T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2022-07-31 21:58:26,580] {processor.py:161} INFO - Processing /Users/jangheesu/airflow/dags/test3.py took 0.089 seconds

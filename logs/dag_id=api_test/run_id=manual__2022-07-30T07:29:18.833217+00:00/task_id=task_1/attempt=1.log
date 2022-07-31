@@ -1,0 +1,32 @@
+[2022-07-30 16:29:19,266] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: api_test.task_1 manual__2022-07-30T07:29:18.833217+00:00 [queued]>
+[2022-07-30 16:29:19,273] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: api_test.task_1 manual__2022-07-30T07:29:18.833217+00:00 [queued]>
+[2022-07-30 16:29:19,273] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-30 16:29:19,273] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-07-30 16:29:19,274] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-30 16:29:19,283] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): task_1> on 2022-07-30 07:29:18.833217+00:00
+[2022-07-30 16:29:19,291] {standard_task_runner.py:52} INFO - Started process 91471 to run task
+[2022-07-30 16:29:19,298] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'api_test', 'task_1', 'manual__2022-07-30T07:29:18.833217+00:00', '--job-id', '213', '--raw', '--subdir', 'DAGS_FOLDER/airflow_api_test.py', '--cfg-path', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmpxcu4343s', '--error-file', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmpr6skrtiv']
+[2022-07-30 16:29:19,299] {standard_task_runner.py:80} INFO - Job 213: Subtask task_1
+[2022-07-30 16:29:19,356] {task_command.py:369} INFO - Running <TaskInstance: api_test.task_1 manual__2022-07-30T07:29:18.833217+00:00 [running]> on host janghuisuui-MacBookAir.local
+[2022-07-30 16:29:19,421] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=jovyan
+AIRFLOW_CTX_DAG_ID=api_test
+AIRFLOW_CTX_TASK_ID=task_1
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-30T07:29:18.833217+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-07-30T07:29:18.833217+00:00
+[2022-07-30 16:29:19,422] {logging_mixin.py:115} INFO - ===========base_url :  http://localhost:8080
+[2022-07-30 16:29:19,422] {logging_mixin.py:115} INFO - ===========sbu_url :  /api/v1/config
+[2022-07-30 16:29:19,422] {logging_mixin.py:115} INFO - ===========user :  test_admin_user
+[2022-07-30 16:29:19,422] {logging_mixin.py:115} INFO - ===========pwd :  1234
+[2022-07-30 16:29:19,478] {logging_mixin.py:115} INFO - ===============dat :  {'detail': None, 'status': 401, 'title': 'Unauthorized', 'type': 'https://airflow.apache.org/docs/apache-airflow/2.3.0/stable-rest-api-ref.html#section/Errors/Unauthenticated'}
+[2022-07-30 16:29:19,479] {logging_mixin.py:115} INFO - ******** key :  detail
+[2022-07-30 16:29:19,479] {logging_mixin.py:115} INFO - ******** key :  status
+[2022-07-30 16:29:19,479] {logging_mixin.py:115} INFO - ******** key :  title
+[2022-07-30 16:29:19,479] {logging_mixin.py:115} INFO - ******** key :  type
+[2022-07-30 16:29:19,479] {python.py:173} INFO - Done. Returned value was: {'detail': None, 'status': 401, 'title': 'Unauthorized', 'type': 'https://airflow.apache.org/docs/apache-airflow/2.3.0/stable-rest-api-ref.html#section/Errors/Unauthenticated'}
+[2022-07-30 16:29:19,524] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=api_test, task_id=task_1, execution_date=20220730T072918, start_date=20220730T072919, end_date=20220730T072919
+[2022-07-30 16:29:19,558] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-07-30 16:29:19,587] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

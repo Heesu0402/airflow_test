@@ -1,0 +1,80 @@
+[2022-07-31 17:25:43,711] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: my_python_dag.task_1 scheduled__2022-07-30T00:00:00+00:00 [queued]>
+[2022-07-31 17:25:43,720] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: my_python_dag.task_1 scheduled__2022-07-30T00:00:00+00:00 [queued]>
+[2022-07-31 17:25:43,720] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-31 17:25:43,720] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-07-31 17:25:43,721] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-07-31 17:25:43,728] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): task_1> on 2022-07-30 00:00:00+00:00
+[2022-07-31 17:25:43,749] {standard_task_runner.py:52} INFO - Started process 1905 to run task
+[2022-07-31 17:25:43,752] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'my_python_dag', 'task_1', 'scheduled__2022-07-30T00:00:00+00:00', '--job-id', '221', '--raw', '--subdir', 'DAGS_FOLDER/test3.py', '--cfg-path', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmpxe7d16sx', '--error-file', '/var/folders/6v/f1q42tlx39bf4xb4nltqccj00000gn/T/tmp_3f6yxvw']
+[2022-07-31 17:25:43,763] {standard_task_runner.py:80} INFO - Job 221: Subtask task_1
+[2022-07-31 17:25:43,848] {task_command.py:369} INFO - Running <TaskInstance: my_python_dag.task_1 scheduled__2022-07-30T00:00:00+00:00 [running]> on host janghuisuui-macbookair.local
+[2022-07-31 17:25:43,921] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=testJang
+AIRFLOW_CTX_DAG_ID=my_python_dag
+AIRFLOW_CTX_TASK_ID=task_1
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-30T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-30T00:00:00+00:00
+[2022-07-31 17:25:43,922] {logging_mixin.py:115} INFO - ====================================================================================================
+[2022-07-31 17:25:43,922] {logging_mixin.py:115} INFO - fruit_name111: apple
+[2022-07-31 17:25:43,922] {logging_mixin.py:115} INFO - ====================================================================================================
+[2022-07-31 17:25:43,922] {logging_mixin.py:115} INFO - {'conf': <airflow.configuration.AirflowConfigParser object at 0x7fb40036ab50>, 'dag': <DAG: my_python_dag>, 'dag_run': <DagRun my_python_dag @ 2022-07-30 00:00:00+00:00: scheduled__2022-07-30T00:00:00+00:00, externally triggered: False>, 'data_interval_end': DateTime(2022, 7, 31, 0, 0, 0, tzinfo=Timezone('UTC')), 'data_interval_start': DateTime(2022, 7, 30, 0, 0, 0, tzinfo=Timezone('UTC')), 'ds': '2022-07-30', 'ds_nodash': '20220730', 'execution_date': <Proxy at 0x7fb4108fe700 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'execution_date', DateTime(2022, 7, 30, 0, 0, 0, tzinfo=Timezone('UTC')))>, 'inlets': [], 'logical_date': DateTime(2022, 7, 30, 0, 0, 0, tzinfo=Timezone('UTC')), 'macros': <module 'airflow.macros' from '/Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/macros/__init__.py'>, 'next_ds': <Proxy at 0x7fb410902440 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'next_ds', '2022-07-31')>, 'next_ds_nodash': <Proxy at 0x7fb410902c80 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'next_ds_nodash', '20220731')>, 'next_execution_date': <Proxy at 0x7fb410902840 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'next_execution_date', DateTime(2022, 7, 31, 0, 0, 0, tzinfo=Timezone('UTC')))>, 'outlets': [], 'params': {}, 'prev_data_interval_start_success': DateTime(2022, 7, 29, 0, 0, 0, tzinfo=Timezone('UTC')), 'prev_data_interval_end_success': DateTime(2022, 7, 30, 0, 0, 0, tzinfo=Timezone('UTC')), 'prev_ds': <Proxy at 0x7fb410902680 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'prev_ds', '2022-07-29')>, 'prev_ds_nodash': <Proxy at 0x7fb410902cc0 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'prev_ds_nodash', '20220729')>, 'prev_execution_date': <Proxy at 0x7fb410902d00 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'prev_execution_date', DateTime(2022, 7, 29, 0, 0, 0, tzinfo=Timezone('UTC')))>, 'prev_execution_date_success': <Proxy at 0x7fb410902d40 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'prev_execution_date_success', DateTime(2022, 7, 29, 0, 0, 0, tzinfo=Timezone('UTC')))>, 'prev_start_date_success': DateTime(2022, 7, 30, 5, 51, 45, 20849, tzinfo=Timezone('UTC')), 'run_id': 'scheduled__2022-07-30T00:00:00+00:00', 'task': <Task(PythonOperator): task_1>, 'task_instance': <TaskInstance: my_python_dag.task_1 scheduled__2022-07-30T00:00:00+00:00 [running]>, 'task_instance_key_str': 'my_python_dag__task_1__20220730', 'test_mode': False, 'ti': <TaskInstance: my_python_dag.task_1 scheduled__2022-07-30T00:00:00+00:00 [running]>, 'tomorrow_ds': <Proxy at 0x7fb410902dc0 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'tomorrow_ds', '2022-07-31')>, 'tomorrow_ds_nodash': <Proxy at 0x7fb410902ec0 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'tomorrow_ds_nodash', '20220731')>, 'ts': '2022-07-30T00:00:00+00:00', 'ts_nodash': '20220730T000000', 'ts_nodash_with_tz': '20220730T000000+0000', 'var': {'json': None, 'value': None}, 'conn': None, 'yesterday_ds': <Proxy at 0x7fb410902f00 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'yesterday_ds', '2022-07-29')>, 'yesterday_ds_nodash': <Proxy at 0x7fb410902f80 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0x7fb40071cdc0>, 'yesterday_ds_nodash', '20220729')>, 'templates_dict': None}
+[2022-07-31 17:25:43,923] {logging_mixin.py:115} INFO - ====================================================================================================
+[2022-07-31 17:25:43,923] {logging_mixin.py:115} INFO - ------ conf || <airflow.configuration.AirflowConfigParser object at 0x7fb40036ab50> -------
+[2022-07-31 17:25:43,925] {logging_mixin.py:115} INFO - ------ dag || <DAG: my_python_dag> -------
+[2022-07-31 17:25:43,927] {logging_mixin.py:115} INFO - ------ dag_run || <DagRun my_python_dag @ 2022-07-30 00:00:00+00:00: scheduled__2022-07-30T00:00:00+00:00, externally triggered: False> -------
+[2022-07-31 17:25:43,927] {logging_mixin.py:115} INFO - ------ data_interval_end || 2022-07-31T00:00:00+00:00 -------
+[2022-07-31 17:25:43,927] {logging_mixin.py:115} INFO - ------ data_interval_start || 2022-07-30T00:00:00+00:00 -------
+[2022-07-31 17:25:43,927] {logging_mixin.py:115} INFO - ------ ds || 2022-07-30 -------
+[2022-07-31 17:25:43,927] {logging_mixin.py:115} INFO - ------ ds_nodash || 20220730 -------
+[2022-07-31 17:25:43,932] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'execution_date' from the template is deprecated and will be removed in a future version. Please use 'data_interval_start' or 'logical_date' instead.
+[2022-07-31 17:25:43,933] {logging_mixin.py:115} INFO - ------ execution_date || 2022-07-30T00:00:00+00:00 -------
+[2022-07-31 17:25:43,933] {logging_mixin.py:115} INFO - ------ inlets || [] -------
+[2022-07-31 17:25:43,933] {logging_mixin.py:115} INFO - ------ logical_date || 2022-07-30T00:00:00+00:00 -------
+[2022-07-31 17:25:43,933] {logging_mixin.py:115} INFO - ------ macros || <module 'airflow.macros' from '/Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/macros/__init__.py'> -------
+[2022-07-31 17:25:43,935] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds }}' instead.
+[2022-07-31 17:25:43,935] {logging_mixin.py:115} INFO - ------ next_ds || 2022-07-31 -------
+[2022-07-31 17:25:43,935] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_ds_nodash' from the template is deprecated and will be removed in a future version. Please use '{{ data_interval_end | ds_nodash }}' instead.
+[2022-07-31 17:25:43,936] {logging_mixin.py:115} INFO - ------ next_ds_nodash || 20220731 -------
+[2022-07-31 17:25:43,936] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'next_execution_date' from the template is deprecated and will be removed in a future version. Please use 'data_interval_end' instead.
+[2022-07-31 17:25:43,936] {logging_mixin.py:115} INFO - ------ next_execution_date || 2022-07-31T00:00:00+00:00 -------
+[2022-07-31 17:25:43,936] {logging_mixin.py:115} INFO - ------ outlets || [] -------
+[2022-07-31 17:25:43,936] {logging_mixin.py:115} INFO - ------ params || {} -------
+[2022-07-31 17:25:43,937] {logging_mixin.py:115} INFO - ------ prev_data_interval_start_success || 2022-07-29T00:00:00+00:00 -------
+[2022-07-31 17:25:43,937] {logging_mixin.py:115} INFO - ------ prev_data_interval_end_success || 2022-07-30T00:00:00+00:00 -------
+[2022-07-31 17:25:43,937] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'prev_ds' from the template is deprecated and will be removed in a future version.
+[2022-07-31 17:25:43,937] {logging_mixin.py:115} INFO - ------ prev_ds || 2022-07-29 -------
+[2022-07-31 17:25:43,938] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'prev_ds_nodash' from the template is deprecated and will be removed in a future version.
+[2022-07-31 17:25:43,938] {logging_mixin.py:115} INFO - ------ prev_ds_nodash || 20220729 -------
+[2022-07-31 17:25:43,938] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'prev_execution_date' from the template is deprecated and will be removed in a future version.
+[2022-07-31 17:25:43,938] {logging_mixin.py:115} INFO - ------ prev_execution_date || 2022-07-29T00:00:00+00:00 -------
+[2022-07-31 17:25:43,939] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'prev_execution_date_success' from the template is deprecated and will be removed in a future version. Please use 'prev_data_interval_start_success' instead.
+[2022-07-31 17:25:43,939] {logging_mixin.py:115} INFO - ------ prev_execution_date_success || 2022-07-29T00:00:00+00:00 -------
+[2022-07-31 17:25:43,939] {logging_mixin.py:115} INFO - ------ prev_start_date_success || 2022-07-30T05:51:45.020849+00:00 -------
+[2022-07-31 17:25:43,939] {logging_mixin.py:115} INFO - ------ run_id || scheduled__2022-07-30T00:00:00+00:00 -------
+[2022-07-31 17:25:43,940] {logging_mixin.py:115} INFO - ------ task || <Task(PythonOperator): task_1> -------
+[2022-07-31 17:25:43,940] {logging_mixin.py:115} INFO - ------ task_instance || <TaskInstance: my_python_dag.task_1 scheduled__2022-07-30T00:00:00+00:00 [running]> -------
+[2022-07-31 17:25:43,940] {logging_mixin.py:115} INFO - ------ task_instance_key_str || my_python_dag__task_1__20220730 -------
+[2022-07-31 17:25:43,940] {logging_mixin.py:115} INFO - ------ test_mode || False -------
+[2022-07-31 17:25:43,940] {logging_mixin.py:115} INFO - ------ ti || <TaskInstance: my_python_dag.task_1 scheduled__2022-07-30T00:00:00+00:00 [running]> -------
+[2022-07-31 17:25:43,941] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'tomorrow_ds' from the template is deprecated and will be removed in a future version.
+[2022-07-31 17:25:43,941] {logging_mixin.py:115} INFO - ------ tomorrow_ds || 2022-07-31 -------
+[2022-07-31 17:25:43,941] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'tomorrow_ds_nodash' from the template is deprecated and will be removed in a future version.
+[2022-07-31 17:25:43,941] {logging_mixin.py:115} INFO - ------ tomorrow_ds_nodash || 20220731 -------
+[2022-07-31 17:25:43,941] {logging_mixin.py:115} INFO - ------ ts || 2022-07-30T00:00:00+00:00 -------
+[2022-07-31 17:25:43,941] {logging_mixin.py:115} INFO - ------ ts_nodash || 20220730T000000 -------
+[2022-07-31 17:25:43,942] {logging_mixin.py:115} INFO - ------ ts_nodash_with_tz || 20220730T000000+0000 -------
+[2022-07-31 17:25:43,942] {logging_mixin.py:115} INFO - ------ var || {'json': None, 'value': None} -------
+[2022-07-31 17:25:43,942] {logging_mixin.py:115} INFO - ------ conn || None -------
+[2022-07-31 17:25:43,942] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'yesterday_ds' from the template is deprecated and will be removed in a future version.
+[2022-07-31 17:25:43,942] {logging_mixin.py:115} INFO - ------ yesterday_ds || 2022-07-29 -------
+[2022-07-31 17:25:43,943] {logging_mixin.py:115} WARNING - /Users/jangheesu/opt/anaconda3/envs/airflow2.3.0/lib/python3.8/site-packages/airflow/utils/context.py:290 AirflowContextDeprecationWarning: Accessing 'yesterday_ds_nodash' from the template is deprecated and will be removed in a future version.
+[2022-07-31 17:25:43,943] {logging_mixin.py:115} INFO - ------ yesterday_ds_nodash || 20220729 -------
+[2022-07-31 17:25:43,943] {logging_mixin.py:115} INFO - ------ templates_dict || None -------
+[2022-07-31 17:25:43,943] {logging_mixin.py:115} INFO - ====================================================================================================
+[2022-07-31 17:25:43,943] {python.py:173} INFO - Done. Returned value was: ptrin complete ~ !!
+[2022-07-31 17:25:43,974] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=my_python_dag, task_id=task_1, execution_date=20220730T000000, start_date=20220731T082543, end_date=20220731T082543
+[2022-07-31 17:25:44,025] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-07-31 17:25:44,057] {local_task_job.py:273} INFO - 2 downstream tasks scheduled from follow-on schedule check
